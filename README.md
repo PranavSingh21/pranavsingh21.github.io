@@ -1,4 +1,4 @@
-🚀 Pranav Anand Singh – Product Portfolio
+🚀 **Pranav Anand Singh – Product Portfolio**
 👋 About This Repository
 
 This repository contains the source code for my personal portfolio website.
@@ -15,7 +15,7 @@ Systems thinking & structured product execution
 
 It is built using a customized version of the vCard Personal Portfolio template.
 
-🧠 About Me
+🧠**About Me**
 
 I am a Product Owner specializing in:
 
@@ -29,7 +29,7 @@ AI-powered productivity tools
 
 Currently focused on building scalable, reliable systems and growing toward long-term product leadership.
 
-📍 Bangalore, India
-📧 021pranavsingh@gmail.com
+**📍 Bangalore, India
+📧 021pranavsingh@gmail.com**
 
-🔗 LinkedIn: https://www.linkedin.com/in/pranav-anand-singh/
+**🔗 LinkedIn: https://www.linkedin.com/in/pranav-anand-singh/**
